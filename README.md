@@ -1,6 +1,6 @@
 Análise de Desempenho de Pipeline PDI - Arquitetura de Computadores
 📖 Sobre o Projeto
-Este projeto foi desenvolvido como parte da avaliação da disciplina de Arquitetura de Computadores do curso de Ciência da Computação da Universidade Federal do Maranhão (UFMA).
+Este projeto foi desenvolvido como parte da avaliação da disciplina de Arquitetura de Computadores do curso de Engenharia da Computação da Universidade Federal do Maranhão (UFMA).
 
 O objetivo principal é demonstrar de forma prática como diferentes etapas de um pipeline de Processamento Digital de Imagens (PDI) impactam a performance de um sistema. A aplicação simula um cenário comum em sistemas embarcados e visão computacional, onde uma imagem é capturada, pré-processada (redução de ruído) e submetida a uma tarefa de reconhecimento (detecção de objetos simulada).
 
@@ -74,6 +74,5 @@ A imagem processada aparecerá à direita e o Relatório de Desempenho será atu
 (Opcional) Clique em "Salvar Resultado" para salvar a imagem final.
 
 ✒️ Autor
-[SEU NOME COMPLETO AQUI] - seu.email@exemplo.com
-
+[JOÃO FELIPE PEREIRA CAMPOS] - joaofelipe4142@gmail.com
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
