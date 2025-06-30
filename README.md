@@ -1,0 +1,2 @@
+# ArquiteturadeComputadores_processamento
+Algoritmo de processamento de imagens
